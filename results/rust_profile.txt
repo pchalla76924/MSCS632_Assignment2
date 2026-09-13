@@ -1,1 +1,1 @@
-rustc was not available in this environment. Run locally: rustc -O part2_memory/rust_memory.rs -o build/rust_memory
+rustc was not available in this environment. Run locally: rustc -O memory/rust_memory.rs -o build/rust_memory
