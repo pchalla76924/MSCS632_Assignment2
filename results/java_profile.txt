@@ -1,0 +1,3 @@
+allocated bytes = 8388608
+reference cleared; GC timing is managed by JVM
+PROFILE elapsed_seconds=0.210141 peak_rss_kb=45836

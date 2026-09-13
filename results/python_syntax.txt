@@ -1,0 +1,4 @@
+  File "/mnt/data/work_assignment2/repo/part1_syntax/python_syntax_error.py", line 2
+    def calculate_sum(arr)
+                          ^
+SyntaxError: expected ':'

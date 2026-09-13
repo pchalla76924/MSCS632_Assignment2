@@ -1,0 +1,7 @@
+part1_syntax/cpp_syntax_error.cpp: In function 'int calculateSum(const int*, int)':
+part1_syntax/cpp_syntax_error.cpp:7:5: error: expected ',' or ';' before 'for'
+    7 |     for (int i = 0; i < size; ++i) {
+      |     ^~~
+part1_syntax/cpp_syntax_error.cpp:7:21: error: 'i' was not declared in this scope
+    7 |     for (int i = 0; i < size; ++i) {
+      |                     ^
